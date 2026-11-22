@@ -1,12 +1,12 @@
 cff-version: 1.2.0
 message: "If you use this software or data, please cite the paper and this repository."
-title: "Ethreshold_BOoffset: code and data for threshold masses of three-particle Coulomb systems and their Born-Oppenheimer offsets"
+title: "threebody-threshold-masses: code and data for threshold masses of three-particle Coulomb systems and their Born-Oppenheimer offsets"
 authors:
   - family-names: Peverati
     given-names: Roberto
     affiliation: "Florida Institute of Technology"
 license: MIT
-repository-code: "https://github.com/peverati/Ethreshold_BOoffset"
+repository-code: "https://github.com/peverati/threebody-threshold-masses"
 version: "1.0.0"
 doi: 10.5281/zenodo.24398482
 date-released: "2026-11-19"

@@ -1,5 +1,5 @@
 {
-  "title": "Ethreshold_BOoffset: code and data for threshold masses of three-particle Coulomb systems and their Born-Oppenheimer offsets",
+  "title": "threebody-threshold-masses: code and data for threshold masses of three-particle Coulomb systems and their Born-Oppenheimer offsets",
   "upload_type": "software",
   "description": "Code and data accompanying R. Peverati, \"Where does a molecule begin? Threshold masses of three-particle Coulomb systems and a predictive theory of their Born-Oppenheimer offsets\" (submitted to Phys. Chem. Chem. Phys.). Contains three Python solvers (exact variational three-body solver, Born-Oppenheimer H2+-type baseline, harmonic three-body models), one folder per calculation with scripts and result files, frozen pre-specified predictions with SHA-256 hashes, and scripts regenerating every figure and table of the paper.",
   "creators": [

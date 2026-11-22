@@ -1,4 +1,4 @@
-# Ethreshold_BOoffset
+# threebody-threshold-masses
 
 Code and data for
 
